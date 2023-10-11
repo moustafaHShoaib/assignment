@@ -1,3 +1,5 @@
+package TestCases;
+
 import  io.appium.java_client.AppiumDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;

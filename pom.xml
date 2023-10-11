@@ -86,5 +86,11 @@
             <artifactId>cucumber-core</artifactId>
             <version>7.14.0</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/io.appium/mitmproxy-java -->
+        <dependency>
+            <groupId>io.appium</groupId>
+            <artifactId>mitmproxy-java</artifactId>
+            <version>2.0.0</version>
+        </dependency>
     </dependencies>
 </project>
